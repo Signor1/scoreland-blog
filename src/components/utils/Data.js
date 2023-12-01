@@ -31,4 +31,12 @@ export const Blogs = [
     time: "21 Nov 2023",
     comment: "6",
   },
+  {
+    id: 5,
+    img: "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blta81dee6dd923ab54/655c698318ca54040a85b254/Antoine_Semenyo_Ghana.jpg?auto=webp&format=pjpg&width=640&quality=60",
+    title: "Comoros vs Ghana: Preview, Kick-off time & Squad news",
+    tag: ["CAF World Cup Qualifiers"],
+    time: "21 Nov 2023",
+    comment: "6",
+  },
 ];
