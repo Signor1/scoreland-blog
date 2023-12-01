@@ -1,8 +1,13 @@
+import HeroSection from "../organ/HeroSection"
+import TopStory from "../organ/TopStory"
 
 
 const Home = () => {
     return (
-        <div>Home</div>
+        <main className="w-full">
+            <HeroSection />
+            <TopStory />
+        </main>
     )
 }
 
