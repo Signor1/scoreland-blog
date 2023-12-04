@@ -31,4 +31,23 @@ export const Blogs = [
     time: "21 Nov 2023",
     comment: "6",
   },
+  {
+    id: 5,
+    img: "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt7d638ca4368c6a19/65684284992d0b040a9b1fc6/Lavia_Chelsea.jpg?auto=webp&format=pjpg&width=640&quality=60",
+    title:
+      "Christopher Nkunku's Chelsea return will steal the headlines - but £58m Romeo Lavia will be equally transformative for Mauricio Pochettino's Blues",
+    tag: ["Opinion"],
+    time: "20h",
+    comment: "16",
+  },
+
+  {
+    id: 6,
+    img: "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt7d638ca4368c6a19/65684284992d0b040a9b1fc6/Lavia_Chelsea.jpg?auto=webp&format=pjpg&width=640&quality=60",
+    title: "Hayes as Lionesses boss? USWNT always made more sense",
+    tag: ["Opinion"],
+    time: "20h",
+    comment: "16",
+  },
+  
 ];
