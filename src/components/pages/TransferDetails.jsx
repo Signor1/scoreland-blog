@@ -54,8 +54,8 @@ const TransferDetails = () => {
       </Link>
       {isTransferLoading ? (
         <>
-          <div className=" w-full h-auto lg:flex justify-between align-middle gap-6">
-            <div className="grid  grid-cols-1 md:grid-cols-2 lg:grid-cols-1 gap-16 lg:h-8">
+          <div className="w-full h-auto lg:flex gap-10 ">
+            <div className="grid  md:grid-cols-2 lg:grid-cols-1 gap-16 lg:h-8">
               <main className="flex flex-col h-auto gap-2 bg-gray-900">
                 <div className="w-full h-[250px]">
                   <img
