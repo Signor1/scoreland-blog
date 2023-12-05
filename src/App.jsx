@@ -16,11 +16,6 @@ const NotFound = lazy(() => import("./components/404/NotFound"))
 export const AuthUser = createContext({})
 
 const App = () => {
-  // const user = {
-  //   name: "Gerald Cyril",
-  //   email: "gerald@gmail.com",
-  // };
-
 
   const directory = useLocation();
 
