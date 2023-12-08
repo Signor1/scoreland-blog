@@ -35,7 +35,7 @@ const App = () => {
       <AuthUser.Provider value={user}>
         <Suspense fallback={<Loader />}>
           <Routes>
-            <Route path="/" element={<Home />} />
+            <Route index path="/" element={<Home />} />
             <Route path="/latestnews" element={<LatestNews />} />
             <Route path="/latestnews/:id" element={<LatestNewsDetail />} />
             <Route element={<AuthLayout />}>
